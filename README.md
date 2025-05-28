@@ -61,3 +61,5 @@ Discounts Offered
 Interactive Filters: Slicers for time periods, regions, and product lines to drill down performance.
 
 Goal: To evaluate financial performance, identify high/low performing areas, and support data-backed business decisions.
+
+Dashboard Screenshot:(https://github.com/DHiraj7038/Financial-Dashboard/blob/main/FInancial%20dashboard.png)
